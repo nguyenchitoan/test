@@ -18,6 +18,5 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   </table>
   
 </xsl:template>
-<xsl:param name="file2" select="document('/challenge/web-serveur/ch50/index.php')"/>
 
 </xsl:stylesheet>

